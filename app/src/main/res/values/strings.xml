@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Stevent</string>
+    <string name="judul_event">Judul Event</string>
+    <string name="tanggal_event">Tanggal Event</string>
+    <string name="lokasi_event">Lokasi Event</string>
+    <string name="detail_event">Detail Event</string>
+</resources>
