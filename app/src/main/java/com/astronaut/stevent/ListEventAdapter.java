@@ -18,6 +18,15 @@ public class ListEventAdapter extends RecyclerView.Adapter<ListEventAdapter.List
 
     private ArrayList<Event> listEvent;
 
+    private OnItemClickCallback onItemClickCallback;
+    public void setOnItemClickCallback(OnItemClickCallback onItemClickCallback) {
+        this.onItemClickCallback = onItemClickCallback;
+    }
+
+    public interface OnItemClickCallback {
+        void onItemClicked(Event data);
+    }
+
     public ListEventAdapter(ArrayList<Event> list) {
         this.listEvent = list;
     }
@@ -30,7 +39,7 @@ public class ListEventAdapter extends RecyclerView.Adapter<ListEventAdapter.List
     }
 
     @Override
-    public void onBindViewHolder(@NonNull ListViewHolder holder, int position) {
+    public void onBindViewHolder(@NonNull final ListViewHolder holder, int position) {
         Event event = listEvent.get(position);
         Glide.with(holder.itemView.getContext())
                 .load(event.getImage())
@@ -40,6 +49,13 @@ public class ListEventAdapter extends RecyclerView.Adapter<ListEventAdapter.List
         holder.tvDate.setText(event.getDate());
         holder.tvLocation.setText(event.getLocation());
         holder.tvDetail.setText(event.getDetail());
+
+        holder.itemView.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                onItemClickCallback.onItemClicked(listEvent.get(holder.getAdapterPosition()));
+            }
+        });
     }
 
     @Override

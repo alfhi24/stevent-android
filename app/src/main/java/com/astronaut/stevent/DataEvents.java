@@ -243,9 +243,9 @@ public class DataEvents {
         R.drawable.minta_bit
     };
 
-    static ArrayList<Event> getListEvent(){
+    static ArrayList<Event> getListData(){
         ArrayList<Event> list = new ArrayList<>();
-        for (int position = 0; position<eventImage.length; position++) {
+        for (int position = 0; position<eventName.length; position++) {
             Event event = new Event();
             event.setName(eventName[position]);
             event.setDate(eventDate[position]);
