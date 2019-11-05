@@ -44,37 +44,40 @@ public class DataEvents {
     };
 
     private static String[] eventDetail = {
-        "Terakhir kali stand up comedy di Bandung 8 tahun yang lalu. Kali ini gue datang kembali ke Bandung untuk bikin show komedi terbaru gue. Udah siap beli tiketnya? Mending tanggal jualan dikasih tau apa dadakan nih?.",
+            "Cerita Cintaku adalah show komedi oleh Raditya Dika. Show ini terbagi menjadi dua bagian: standup comedy oleh Raditya Dika dan interaksi bersama penonton.\n\n" +
+            "SYARAT & KETENTUAN\n\n"+
+            "• Registrasi ulang dimulai 2 jam sebelum acara.\n" +
+            "• Pintu masuk akan ditutup ketika acara berlangsung dan yang terlambat tidak diperbolehkan masuk.\n" +
+            "• Tidak diperbolehkan untuk menyalakan handphone ketika acara berlangsung.\n" +
+            "• Segala perekaman berbentuk audio dan video akan ditindak sesuai hukum yang berlaku.\n" +
+            "• Mereka yang melanggar akan dikeluarkan tanpa peringatan oleh penyelenggara acara.\n" +
+            "• Tiket yang sudah dibeli tidak dapat dikembalikan.\n" +
+            "• E-Voucher ini tidak dapat dipindah-tangankan.\n" +
+            "• E-Voucher ini harus ditukarkan dengan tiket yang sah di tempat acara.\n" +
+            "• Wajib membawa dan menunjukan kartu identitas yang sah (KTP/Kartu Pelajar/Passpor/SIM) pada saat penukaran E-Voucher dengan tiket.\n" +
+            "• Kami tidak bertanggung jawab atas kehilangan E-Voucher ini.\n" +
+            "• Dilarang membawa senjata tajam.api dan obat-obatan terlarang.\n" +
+            "• Penyelenggara berhak untuk tidak memberikan izin untuk masuk ke dalam tempat acara apabila syarat-syarat & ketentuan tidak dipenuhi.",
 
         "DEMA Fakultas Adab dan Humaniora UIN Sunan Ampel Surabaya X HRO Proudly Present\n" +
-                ".\n" +
                 "INTERNATIONAL SEMINAR AND SCHOLARSHIP ESSAY WRITING WORKSHOP\n" +
-                ".\n" +
                 "Toward Infinity and Beyond with International Scholarship\n" +
-                ".\n" +
                 "\uD83D\uDCE2 SPEAKERS:\n" +
-                ".\n" +
                 "• ROBINSON SINURAT\n" +
                 "- Awardee of LPDP, Master in Social Work Columbia University, New York, USA\n" +
                 "- Ambassador's Award for Excellence 2017 on behalf of The Indonesian Embassy in the United States\n" +
                 "- Founder Mimpi Besar @mimpibesar.id\n" +
-                ".\n" +
                 "• SITI MAHDARIA\n" +
                 "- Awardee of Australia Award Scholarship, University of Melbourne\n" +
                 "- Co-Founder and CEO _Coach Potato_ @coachpotato.id\n" +
-                ".\n" +
                 "• FRANCIS O’BRIEN\n" +
                 "- Manager IALF Surabaya\n" +
-                ".\n" +
                 "\uD83D\uDCCC WILL BE HELD ON:\n" +
                 "Monday, November 4th 2019\n" +
-                ".\n" +
                 "INTERNATIONAL SEMINAR\n" +
                 "08.00-12.00\n" +
-                ".\n" +
                 "WORKSHOP:\n" +
                 "13.00-13.45\n" +
-                ".\n" +
                 "@ Auditorium of UINSA .\n" +
                 "\uD83D\uDCB5 REGISTRATION FEE\n" +
                 "INTERNATIONAL SEMINAR:\n" +
@@ -82,35 +85,26 @@ public class DataEvents {
                 "• VIP 40K\n" +
                 "• OTS 50K\n" +
                 "(Facilities: International certificate, seminar kit and snack)\n" +
-                ".\n" +
                 "WORKSHOP\n" +
                 "• 50K (limited seat)\n" +
                 "(Facilities: Workshop kit)\n" +
-                ".\n" +
                 "So, what are you waiting for? Book your seat now!!\n" +
-                ".\n" +
                 "\uD83D\uDCB3 PAYMENT VIA:\n" +
                 "BCA 5600310731 a.n. Rizky A.\n" +
-                ".\n" +
                 "For further information, please contact:\n" +
                 "\uD83D\uDCF2 Arika 0895-6060-83882\n" +
                 "\uD83D\uDCF2 Sandra 0857-3605-1048\n" +
-                ".\n" +
                 "FIND US ON INSTAGRAM:\n" +
                 "@humanorganizer\n" +
                 "@demafahumuinsa",
 
         "[BEM FH UB PROUDLY PRESENTS] GIGS OF THE LAW FESTIVAL 2019\n" +
                 "With our theme \"One Fine Day\"\n" +
-                "\n" +
                 "Our event will be held on:\n" +
                 "Graha Cakrawala, Universitas Negeri Malang\n" +
                 "Friday, 8th November 2019\n" +
-                "\n" +
                 "Introducing TULUS and Nadin Amizah as our Main Guest Star⭐\n" +
-                "\n" +
                 "Also our event Will be hosted by: Indra Winata and Lala Fidela\n" +
-                "\n" +
                 "We will also have special performances by:\n" +
                 "- Flakustix\n" +
                 "- Kiarakelana\n" +
@@ -119,7 +113,6 @@ public class DataEvents {
                 "- Teater Kertas FH UB\n" +
                 "- Bahagita as Solo Talent\n" +
                 "- Raissa and Huday as Duo Talent\n" +
-                "\n" +
                 "For those of you who haven't buy our tickets, you can buy our tickets by contacting through:\n" +
                 "Jihan : 082230105588 (Wa)\n" +
                 "Luna : 085546450321 (Wa)\n" +
@@ -130,7 +123,6 @@ public class DataEvents {
                 "Regular : 85k (Sold Out)\n" +
                 "OTS : 100k\n" +
                 "Don't forget to bring your tickets and sing along with us on November 8th with your friends, family or your loved ones!\n" +
-                "\n" +
                 "See you there! Stay tune our social media:\n" +
                 "Ig : @glowfest19\n" +
                 "Line : @elw6141m\n" +
@@ -139,7 +131,6 @@ public class DataEvents {
 
         "\"Annual Convention on Global South 2019:\n" +
                 "Rethinking International Relations in the Era of Technological Disruptions\"\n" +
-                "\n" +
                 "Tuesday, 5th November 2019 at Balai Senat, Universitas Gadjah Mada\n" +
                 "\n" +
                 "With speakers:\n" +
@@ -157,7 +148,13 @@ public class DataEvents {
                 "Contact person:\n" +
                 "Arlitadian (0858 6727 8278) **to be confirmed",
 
-        "Raden Mas Soewardi Soerjaningrat (EBI: Suwardi Suryaningrat, sejak 1922 menjadi Ki Hadjar Dewantara, EBI: Ki Hajar Dewantara, beberapa menuliskan bunyi bahasa Jawanya dengan Ki Hajar Dewantoro; lahir di Pakualaman, 2 Mei 1889 – meninggal di Yogyakarta, 26 April 1959 pada umur 69 tahun; selanjutnya disingkat sebagai \"Soewardi\" atau \"KHD\") adalah aktivis pergerakan kemerdekaan Indonesia, kolumnis, politisi, dan pelopor pendidikan bagi kaum pribumi Indonesia dari zaman penjajahan Belanda. Ia adalah pendiri Perguruan Taman Siswa, suatu lembaga pendidikan yang memberikan kesempatan bagi para pribumi untuk bisa memperoleh hak pendidikan seperti halnya para priyayi maupun orang-orang Belanda.",
+        "Kesempatan terakhir untuk nonton #HiduplahIndonesiaMaya ada di JAKARTA, 30 NOV.\n" +
+                "Diselenggarakan oleh @comikaid\n" +
+                "Periode normal dibuka tanggal 30 Oktober.\n" +
+                "Kata temen gue dari loket.com waktu presale ada 5000 orang masuk utk rebutan 500 tiket.\n" +
+                "Siap2 bertarung dgn yg kmrn ga kebagian di tgl 30 Okt.\n" +
+                "Penjualan dibuka jam 12.00 WIB di loket.com.\n" +
+                "PS: Ini juga kesempatan terakhir kalau mau ngintip kayak apa materi2 #Septictank (yg batal rilis digital download krn alasan keselamatan sayahhh)",
 
         "HIMPUNAN S1 INFORMATIKA TELKOM UNIVERSITY proudly present INTERFEST 2019 IMPACT : HACKATHON Hello fellas!\n" +
                 "WE GOT SOMETHING HUGE!! We are proud to announce our new official partnership, JetBrains!\n" +
@@ -177,34 +174,34 @@ public class DataEvents {
                 "-Facebook : fb.me/interfesttelkom\n" +
                 "-Website : interfest.id",
         "Kompetisi menulis popular adalah kompetisi perayaan hari jadi Event Mahasiswa yang dilaksanakan secara gratis untuk umum. Karya berupa gambar dan tulisan yang berisi pesan atau semangat kepada pembacanya.\n" +
-                ".\n" +
-                ".\n" +
+                "\n" +
+                "\n" +
                 "Akan dipilih 3 Juara terbaik. GRATISS\n" +
-                ".\n" +
-                ".\n" +
+                "\n" +
+                "\n" +
                 "Selengkapnya cek di eventmahasiswa.com/kompetisi-menulis-populer\n" +
                 "atau bit.ly/EMlombagratis",
 
         "⚡️HMPTPUNJ Proudly Present⚡️\n" +
                 "\uD83C\uDFF0Colourphonic in Wonderland\uD83C\uDFF0\n" +
-                ".\n" +
+                "\n" +
                 "Hello friends\uD83D\uDC4B\uD83C\uDFFB\n" +
                 "Are you photograph enthusiast?\n" +
                 "Do you want to show your creation ? .\n" +
-                ".\n" +
+                "\n" +
                 "Don’t worry, we are available for you ❗️. Don’t forget to join our suits event in this year⚡️\n" +
-                ".\n" +
-                ".\n" +
+                "\n" +
+                "\n" +
                 "What’s on our events ?\n" +
                 "\uD83D\uDCF7Photography competition\n" +
                 "\uD83C\uDF86Photography seminar\n" +
                 "\uD83D\uDDBCPhotography exhibition .\n" +
-                ".\n" +
+                "\n" +
                 "For further information about photography competition,\n" +
                 "please check our booklet \uD83D\uDC47\uD83C\uDFFB\n" +
                 "http://bit.ly/BookletCP2019\n" +
-                ".\n" +
-                ".\n" +
+                "\n" +
+                "\n" +
                 "So, what are you waiting for? let’s improve yourself and actualize your dreams\uD83E\uDD1E\uD83C\uDFFB\uD83D\uDCF7\n" +
                 "#colourphotography\n" +
                 "#infolomba\n" +
@@ -227,7 +224,11 @@ public class DataEvents {
                 "⏰Waktu Program MBA: Sabtu, 16 Nov 2019 (12.30-18.00 WIB).\n" +
                 "\uD83D\uDCCDLokasi: Ayana MidPlaza Hotel, Jakarta.",
 
-        "Tan Malaka atau Ibrahim gelar Datuk Sutan Malaka (lahir di Nagari Pandam Gadang, Suliki, Lima Puluh Kota, Sumatera Barat, 2 Juni 1897 – meninggal di Desa Selopanggung, Kediri, Jawa Timur, 21 Februari 1949 pada umur 51 tahun) adalah seorang pembela kemerdekaan Indonesia, tokoh Partai Komunis Indonesia, juga pendiri Partai Murba, dan merupakan salah satu Pahlawan Nasional Indonesia."
+        "Malam ini.\n" +
+                "Siap-siap gue akan show lagi di Ketawa komedi klub dengan judul 'Minta Bit'.\n" +
+                "Ini akan jadi pengalaman nonton Stand-Up yg beda.\n" +
+                "Untuk tiket dan info selengkapnya silahkan cek : \n"+
+                "ig : @ketawacomedyclub "
     };
 
     private static int[] eventImage = {

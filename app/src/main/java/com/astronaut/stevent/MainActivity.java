@@ -58,11 +58,7 @@ public class MainActivity extends AppCompatActivity {
         return true;
     }
 
-
-
     private void showSelectedEvent(Event event) {
-//        Toast.makeText(this, "Kamu memilih " + event.getName(), Toast.LENGTH_SHORT).show();
-//
         Intent detailEvent = new Intent(MainActivity.this, DetailActivity.class);
         detailEvent.putExtra(DetailActivity.EXTRA_IMAGE, event.getImage());
         detailEvent.putExtra(DetailActivity.EXTRA_NAME, event.getName());

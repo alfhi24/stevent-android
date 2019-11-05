@@ -10,10 +10,6 @@ import java.util.ArrayList;
 
 public class DetailActivity extends AppCompatActivity {
 
-//    private ImageView imageView;
-//    private TextView tvName, tvDate, tvLocation, tvDetail;
-
-
     public static final String EXTRA_IMAGE = "extra_image";
     public static final String EXTRA_NAME = "extra_name";
     public static final String EXTRA_DATE = "extra_date";
