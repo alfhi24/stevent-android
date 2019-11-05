@@ -30,20 +30,22 @@
             android:textSize="20sp"
             android:layout_marginTop="2dp" />
 
+
         <TextView
             android:id="@+id/tv_item_date"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_below="@+id/tv_item_name"
+            android:drawableLeft="@drawable/ic_date"
             android:text="@string/tanggal_event"
             android:layout_marginTop="2dp"
             />
-
         <TextView
             android:id="@+id/tv_item_location"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_below="@+id/tv_item_date"
+            android:drawableLeft="@drawable/ic_location"
             android:text="@string/lokasi_event"
             android:layout_marginTop="2dp"
             />
